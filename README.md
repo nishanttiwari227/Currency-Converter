@@ -1,8 +1,8 @@
-# Currency Convertor 💱
+# Currency Converter 💱
 
 A responsive, vanilla JavaScript-based web app that lets users convert between 50+ currencies using real-time exchange rates from the ExchangeRate-API.
 
-[🔗 Live Demo](https://nishanttiwari227.github.io/Currency-Convertor/)
+[🔗 Live Demo](https://nishanttiwari227.github.io/Currency-Converter/)
 
 ---
 
